@@ -1,2 +1,3 @@
 # plv-demo
-This is my first git repo
+This is my first git repository.
+Author - Pallavi Dhangar
